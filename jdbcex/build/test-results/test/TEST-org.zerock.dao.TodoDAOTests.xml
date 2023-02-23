@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.zerock.dao.TodoDAOTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-21T09:47:29" hostname="LAPTOP-5JGOSV9K" time="0.363">
+  <properties/>
+  <testcase name="testList()" classname="org.zerock.dao.TodoDAOTests" time="0.363"/>
+  <system-out><![CDATA[TodoVO(tno=1, title=Test..., dueDate=2022-12-31, finished=true)
+TodoVO(tno=2, title=Test..., dueDate=2022-12-31, finished=true)
+TodoVO(tno=3, title=Not Yet..., dueDate=2022-12-31, finished=false)
+TodoVO(tno=4, title=Test..., dueDate=2022-12-31, finished=true)
+TodoVO(tno=5, title=Test..., dueDate=2022-12-31, finished=true)
+TodoVO(tno=6, title=Sample TItle..., dueDate=2021-12-31, finished=false)
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
